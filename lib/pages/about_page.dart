@@ -137,7 +137,7 @@ class AboutPage extends StatelessWidget {
               icon: Icons.camera_alt_outlined,
               color: const Color(0xFFE1306C), // Warna Pink Instagram
               onPressed: () => _launchURL(
-                'https://www.instagram.com/thrq.a_19/',
+                'https://www.instagram.com/thorq.ahmd/',
               ), // [cite: 310]
             ),
           ],
