@@ -2,7 +2,13 @@
 
 **LoFiLog** adalah aplikasi produktivitas personal dengan estetika **Cyberpunk** yang dirancang untuk membantu Anda mencatat, merencanakan, dan tetap fokus dalam gaya.
 
-![App Banner/Download Aplikasi](https://via.placeholder.com/800x400?text=LoFiLog+Screenshot) (https://drive.google.com/drive/folders/11OyxcOrh0DelJCxmzz3oV5gyXFwH4qJ2?usp=sharing)
+![App Banner](https://via.placeholder.com/800x400?text=LoFiLog+Banner)
+
+## 📥 Unduh & Demo
+
+Ingin mencoba aplikasi ini secara langsung? Unduh file APK melalui link di bawah ini:
+
+👉 **[Download LoFiLog (Google Drive)](https://drive.google.com/drive/folders/11OyxcOrh0DelJCxmzz3oV5gyXFwH4qJ2?usp=sharing)**
 
 ## 📖 Tentang Aplikasi
 
